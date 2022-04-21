@@ -1,0 +1,203 @@
+/* Navbar Section */
+.navbar-brand {
+  font-family: 'Sail', cursive;
+  font-size: 30px;
+}
+
+/* Title Section */
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 35px;
+  margin-left: 10px;
+}
+
+h2 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 50px;
+}
+.row1{
+padding-top: 70px;
+
+}
+
+.Image{
+position: absolute;
+right: 120px;
+bottom: 80px;
+}
+
+
+/* Media Query */
+
+@media (max-width:1028px){
+
+
+#title{
+text-align: center;
+padding: 11px 15px;
+
+}
+
+.container{
+text-align: center;
+padding-bottom: 310px;
+}
+
+.Image{
+position: absolute;
+right: -10px;
+top: 450px;
+
+}
+.press1{
+  margin: 10px 10px 10px;
+  width: 42%;
+  height: 42%;
+
+}
+#press{
+position: relative;
+  padding-top: 100px;
+}
+p5{
+font-size: 15px;
+
+}
+.whippy{
+padding-bottom: 144px;
+}
+.grubby{
+padding-bottom: 72px;
+}
+}
+
+/* Features Section */
+
+#features{
+position: static;
+
+z-index: 1;
+
+}
+
+.down-btn {
+  padding-top: 60px;
+  padding-left: 50px;
+}
+
+.f-star {
+  color: white;
+}
+
+.fa-star:hover {
+  color: yellow;
+}
+
+.fa-infinity {
+  color: white;
+}
+
+.fa-infinity:hover {
+  color: yellow;
+}
+
+.fa-circle-check {
+  color: white;
+}
+
+.fa-circle-check:hover {
+  color: yellow;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  font-size: 15px;
+}
+
+h4 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
+}
+
+.testimonials-image {
+  width: 150px;
+  border-radius: 50%;
+  height: 150px;
+}
+
+/* Press */
+
+#press {
+  text-align: center;
+}
+
+
+.press1 {
+  margin: 20px 20px 30px;
+  width: 12%;
+}
+
+/* Pricing */
+
+#pricing{
+
+text-align: center;
+
+}
+h5 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
+  padding-top: 10px;
+
+}
+p{
+
+font-size: 30px;
+
+}
+.price{
+
+padding: 2% 2% 2% 2%;
+
+}
+
+.card-header{
+
+  background-color: #FFA500;
+
+}
+/* Call To Action */
+#cta{
+text-align: center;
+}
+h6{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+  color: black;
+    padding-top: 100px;
+}
+/* Footer */
+#footer{
+text-align: center;
+
+}
+p2{
+font-size: 15px;
+
+}
+.icons2{
+  text-align: center;
+padding-left: 10px;
+
+}
